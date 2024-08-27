@@ -1,0 +1,30 @@
+*{
+    background-color: aqua;
+}
+.App {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    
+  }
+  
+  form {
+    margin-bottom: 20px;
+  }
+  
+  input[type="text"] {
+    padding: 8px;
+    font-size: 16px;
+    margin-right: 10px;
+  }
+  
+  button {
+    padding: 8px 16px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .todo-item {
+    margin-bottom: 10px;
+  }
+  
